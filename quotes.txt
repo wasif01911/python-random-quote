@@ -12,3 +12,6 @@ Favor focus over features
 Avoid administrative distraction
 Design for failure
 Keep it logically awesome
+Life is like a riding a bicycle, to keep your balance you must keep moving
+Success is the sum of small efforts, repeated day in and day out
+This is my own quote
